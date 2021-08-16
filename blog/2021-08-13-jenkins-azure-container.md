@@ -1,9 +1,9 @@
 ---
 slug: Jenkins-on-Serverless-Azure-Container-instance
-title: Jenkins on Serverless Azure Container Instance
+title: Deploye Azure Container Instance with JENKINS
 author: SyedAsadRazaDevops
 author_title: Microsoft Azure Infra.. cloud Enginer
-author_url: https://github.com/SyedAsadRazaDevops
+author_url: https://github.com/SyedAsadRazaDevops / https://hub.docker.com/u/asadzoot
 author_image_url: https://avatars.githubusercontent.com/u/71556060?s=400&u=38e884ca37c708b4f87bcd589c76d77a51b28f4b&v=4
 tags: [jenkins,azure container,serverless,Docker,K8s,Devops,Microsoft Azure]
 ---

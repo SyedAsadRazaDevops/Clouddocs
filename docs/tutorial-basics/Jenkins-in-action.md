@@ -20,8 +20,8 @@ https://github.com/syedasadrazadevops/Daraz-Automation-Using-Python-Selenium.git
 this is just for the demo
 ```
 ### No valid crumb Error Solving
+crumb-error.png "Crumb Error " is not avalible this time!
 
-![alt text](/img/crumb-error.png "Crumb Error ")
 In the Latest Update of the Jenkins while adding Git Link and Credentials facing HTTP ERROR 403 No valid crumb was included in the request error. You can solve this error using these steps .
 
 * you have to installed the plugin called "Strict Crumb Issuer".

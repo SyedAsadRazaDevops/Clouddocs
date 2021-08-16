@@ -1,6 +1,5 @@
 # Website
-
-https://syedasadrazadevops.netlify.app/
+https://syedasadrazadevops.netlify.app/blog
 
 ## Installation
 

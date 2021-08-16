@@ -28,7 +28,7 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://pk.linkedin.com/in/syedasadrazadevops',
+          href: 'https://github.com/SyedAsadRazaDevops/Clouddocs',
           label: 'GitHub',
           position: 'right',
         },

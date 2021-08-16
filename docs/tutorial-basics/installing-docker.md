@@ -48,6 +48,4 @@ or
 ```
 docker --version
 ```
-
-![alt text](/img/docker.png "Python")
-
+image not avalible to show.

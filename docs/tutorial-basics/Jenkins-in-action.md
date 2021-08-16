@@ -15,7 +15,7 @@ sidebar_position: 6
 - Copy the Git URL
 _Please make sure the copy url ended with the .git_
 ```git
-https://github.com/adilshehzad786/Daraz-Automation-Using-Python-Selenium.git
+https://github.com/syedasadrazadevops/Daraz-Automation-Using-Python-Selenium.git
 
 this is just for the demo
 ```
